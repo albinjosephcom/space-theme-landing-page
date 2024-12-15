@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a skilled software developer with good knowledge of Python and SQL and expertise in frameworks like React, Node.js, 
+          I {"'"} m a skilled software developer with good knowledge of Python and SQL and expertise in frameworks like React, Node.js, 
           and Django. I'm a quick learner and collaborate closely with clients to create efficient, scalable, 
           and user-friendly solutions that solve real-world problems. Let's work together to bring your idea to life!
         </motion.p>
